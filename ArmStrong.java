@@ -8,6 +8,7 @@ public class ArmStrong {
 		
 		Scanner sc = new Scanner (System.in);
 		int n = sc.nextInt();
+		System.out.println("Hello");
 		
 		int count =0;
 		int n2 = n;
